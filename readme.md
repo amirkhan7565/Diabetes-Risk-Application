@@ -13,8 +13,8 @@ This project is a simple, web-based diabetes risk assessment tool developed usin
 
 ### Online
 
-1. Visit the deployed app: [PASTE YOUR STREAMLIT CLOUD LINK HERE]
-2. Enter your details and click **"Check My Diabetes Risk"**
+1. Visit the deployed app: https://diabetes-risk-application-hiqcksab5mbtlnssl9yzjs.streamlit.app/
+2. Enter your details and click Check My Diabetes Risk
 3. View your personalized risk estimate and health advice
 
 ### Run Locally
@@ -42,5 +42,5 @@ This application is for informational purposes only and does not provide a medic
 
 ## Author
 
-- [Your Name]
-- [Your University / Course / Student ID]
+- Amir Ahmed Nasir
+- IU / DLMCSPSE01 / 102303408
